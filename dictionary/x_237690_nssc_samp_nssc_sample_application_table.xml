@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="NSSC Sample Application Table" max_length="40" name="x_237690_nssc_samp_nssc_sample_application_table" type="collection"/>
+</database>
